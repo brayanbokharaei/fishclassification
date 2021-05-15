@@ -1,1 +1,1 @@
-# Visual fish classification
+# CNN based visual fish classification
